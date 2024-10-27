@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://devindubin.github.io/frontend-mentor-qrcodechallenge/)
 
 ## My process
 
@@ -41,6 +41,7 @@ I learned to use transformX() as a method to center an item that has a static po
 
 - [Stack Overflow](https://stackoverflow.com) - I've read several different posts about positioning that helped me get to a final solution.
 - [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS) - CSS Documentation
+- [Google Fonts](https://fonts.google.com/) - Compared font sizing and weight to the design image
 
 ## Author
 
